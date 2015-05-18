@@ -1,0 +1,16 @@
+#main {
+	width: 75%;
+	background-color: #fff;
+	overflow: auto;
+	margin: auto;
+	text-align: center;
+}
+.column1, .column2, .column3 {
+	width: 30%;
+	float: left;
+	margin: 1em;
+}
+
+.column1, .column2, .column3 {
+	text-align: left;
+}

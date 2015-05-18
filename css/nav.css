@@ -1,0 +1,32 @@
+header {
+
+}
+
+#carousel {
+	height: 50vh;
+	padding-top: 1%;
+	background-color: rgb(80, 190, 200);
+}
+
+#navbar {
+	margin: auto;
+	color: #fefefe;
+}
+
+#navbar-links-ul {
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	width: 50vw;
+	margin: auto;
+	text-align: center;
+}
+
+#navbar-links-ul li {
+	display: inline-block;
+	padding: 0 3% 0 3%;
+}
+
+#navbar li img {
+}
